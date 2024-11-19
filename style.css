@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
-    --preto: #000000
-    --lilás: #D059EE;
-    --branco: #FFFFFF;
-    --botao-ativo: #6E6E6E;
-    --botao-inativo: #303030E;
-    --texto-fundo: #36363680;
+    --preto:#000000
+    --rosa: #FF1493;
+    --branco:#FFFFFF;
+    --botao-ativo:#6E6E6E;
+    --botao-inativo:#303030E;
+    --texto-fundo:#36363680;
 }
 
 body {
