@@ -2,16 +2,16 @@
 
 :root {
     --preto: #000000
-    --lilás: #d059ee;
+    --lilás: #D059EE;
     --branco: #FFFFFF;
-    --botao-ativo: #6e6e6e;
-    --botao-inativo: #3030305e;
+    --botao-ativo: #6E6E6E;
+    --botao-inativo: #303030E;
     --texto-fundo: #36363680;
 }
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(--preto);
     font-family: 'Chakra Petch', sans-serif;
 }
 
